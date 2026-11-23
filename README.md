@@ -59,7 +59,7 @@
 
 ## 安装
 
-1. 下载并解压 `字动力·彩字-1.0.0.zip`。
+1. 下载并解压 `Zidongli-Color-1.0.0.zip`。
 2. 将解压后的 `字动力·彩字-1.0.0.glyphsPalette` 放入 Glyphs 3 的 Plugins 目录：
 
    `~/Library/Application Support/Glyphs 3/Plugins/`
