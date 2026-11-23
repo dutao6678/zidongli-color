@@ -1,0 +1,13 @@
+{
+  "abi": 1,
+  "libraries": {
+    "libCZAlgorithmsC3.dylib": {
+      "size": 180016,
+      "sha256": "2181c7a363c31203c442c2beb94ce1be6296423bc01179a3b49a2f5f1abcf679"
+    },
+    "libCZAuthC3.dylib": {
+      "size": 300560,
+      "sha256": "3d4c6bfcfb80f4ab587b50e89d035902614a606f300963f074f054d46d297bac"
+    }
+  }
+}
